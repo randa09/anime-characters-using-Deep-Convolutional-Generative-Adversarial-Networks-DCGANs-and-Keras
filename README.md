@@ -59,14 +59,14 @@ Proyek ini terdiri dari beberapa tahapan untuk membangun dan melatih model DCGAN
 
 ---
 
-## 📝 Instruksi Penggunaan
+## 📝 Instruksi Penggunaan 
 
 ### Langkah 1: Instalasi
 Pastikan Anda telah menginstal pustaka berikut:
 
 ```bash
-pip install tensorflow keras numpy matplotlib.
-
+pip install tensorflow keras numpy matplotlib seaborn pandas scikit-learn skillsnetwork
+```
 ## 📝 Langkah 2: Eksekusi Notebook
 
 Untuk menjalankan notebook ini, ikuti langkah-langkah berikut:
